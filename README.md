@@ -135,3 +135,13 @@ Molecular biology, biochemistry, conservation analytics, computational biology, 
 ## License
 
 Code and original repository materials are released under the [MIT License](LICENSE). Third-party scientific publications remain subject to their respective publishers' terms.
+
+## Interactive web application
+
+A responsive React/Vite decision-support application is included in [`webapp/`](webapp/). It provides interactive views of territory risk, breeding performance, population viability, conservation genomics, and budget-constrained intervention prioritisation.
+
+```bash
+cd webapp
+npm install
+npm run dev
+```
