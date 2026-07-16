@@ -1,0 +1,206 @@
+scenario,year,median,p10,p90
+Current pressure,2026,392.0,392.0,392.0
+Current pressure,2027,366.0,360.0,372.0
+Current pressure,2028,343.0,333.0,350.0
+Current pressure,2029,320.0,310.0,330.0
+Current pressure,2030,299.0,288.9,311.0
+Current pressure,2031,293.0,281.0,305.0
+Current pressure,2032,285.0,272.0,298.0
+Current pressure,2033,278.0,264.0,291.0
+Current pressure,2034,271.0,255.0,284.0
+Current pressure,2035,262.0,246.0,280.0
+Current pressure,2036,253.0,236.9,271.1
+Current pressure,2037,246.0,228.0,264.0
+Current pressure,2038,238.0,221.0,258.1
+Current pressure,2039,231.0,213.9,251.0
+Current pressure,2040,225.0,207.9,244.1
+Current pressure,2041,219.0,202.0,237.1
+Current pressure,2042,212.0,196.0,233.0
+Current pressure,2043,207.0,189.0,226.1
+Current pressure,2044,201.0,183.0,219.1
+Current pressure,2045,195.0,178.0,215.0
+Current pressure,2046,189.0,172.9,209.0
+Current pressure,2047,185.0,166.0,203.0
+Current pressure,2048,178.0,161.8,199.0
+Current pressure,2049,172.0,155.0,193.0
+Current pressure,2050,168.0,149.0,188.0
+Current pressure,2051,164.0,145.0,184.0
+Current pressure,2052,159.0,141.0,180.0
+Current pressure,2053,155.0,138.0,175.0
+Current pressure,2054,150.0,134.0,169.1
+Current pressure,2055,146.0,129.9,166.0
+Current pressure,2056,142.0,125.0,162.1
+Current pressure,2057,137.0,121.9,157.1
+Current pressure,2058,134.0,116.9,153.0
+Current pressure,2059,130.0,114.0,150.0
+Current pressure,2060,125.0,109.0,144.0
+Current pressure,2061,121.5,107.0,142.0
+Current pressure,2062,119.0,103.0,137.2
+Current pressure,2063,115.0,99.0,134.1
+Current pressure,2064,112.0,95.9,131.0
+Current pressure,2065,109.0,93.0,127.1
+Current pressure,2066,106.0,88.9,125.0
+Habitat protection,2026,392.0,392.0,392.0
+Habitat protection,2027,370.0,364.0,376.0
+Habitat protection,2028,349.0,342.0,357.0
+Habitat protection,2029,330.0,320.9,338.1
+Habitat protection,2030,311.0,302.0,320.0
+Habitat protection,2031,309.0,299.0,320.0
+Habitat protection,2032,307.0,295.0,319.0
+Habitat protection,2033,304.0,289.9,317.1
+Habitat protection,2034,299.0,285.0,313.0
+Habitat protection,2035,295.0,281.9,310.2
+Habitat protection,2036,292.0,277.0,307.0
+Habitat protection,2037,289.0,270.9,304.0
+Habitat protection,2038,285.0,266.0,303.0
+Habitat protection,2039,282.0,262.0,300.1
+Habitat protection,2040,277.0,257.9,297.1
+Habitat protection,2041,273.5,252.0,293.0
+Habitat protection,2042,269.0,247.0,292.0
+Habitat protection,2043,265.0,243.0,289.0
+Habitat protection,2044,261.0,238.0,285.0
+Habitat protection,2045,258.0,235.0,281.0
+Habitat protection,2046,255.0,230.9,278.0
+Habitat protection,2047,252.0,226.0,274.1
+Habitat protection,2048,248.0,224.9,271.1
+Habitat protection,2049,244.5,222.0,268.0
+Habitat protection,2050,240.5,217.9,264.1
+Habitat protection,2051,237.0,214.0,260.1
+Habitat protection,2052,234.0,212.9,255.1
+Habitat protection,2053,230.0,208.0,253.1
+Habitat protection,2054,228.0,205.0,248.1
+Habitat protection,2055,226.0,201.0,248.1
+Habitat protection,2056,223.0,197.0,246.1
+Habitat protection,2057,219.0,192.8,242.1
+Habitat protection,2058,215.5,190.0,239.0
+Habitat protection,2059,212.0,186.8,237.0
+Habitat protection,2060,209.5,184.0,234.0
+Habitat protection,2061,206.5,182.0,231.1
+Habitat protection,2062,204.0,178.9,232.1
+Habitat protection,2063,200.0,178.0,227.0
+Habitat protection,2064,196.0,175.9,226.1
+Habitat protection,2065,194.0,173.0,224.1
+Habitat protection,2066,191.0,169.9,219.39999999999998
+Anti-persecution,2026,392.0,392.0,392.0
+Anti-persecution,2027,373.0,368.0,378.0
+Anti-persecution,2028,355.0,347.0,361.1
+Anti-persecution,2029,336.0,328.0,346.0
+Anti-persecution,2030,320.0,310.0,330.0
+Anti-persecution,2031,320.0,309.0,334.0
+Anti-persecution,2032,320.0,306.0,334.1
+Anti-persecution,2033,318.0,304.0,333.1
+Anti-persecution,2034,317.0,301.9,332.0
+Anti-persecution,2035,314.0,299.0,330.0
+Anti-persecution,2036,310.5,295.0,328.0
+Anti-persecution,2037,308.0,292.0,328.0
+Anti-persecution,2038,305.0,288.9,327.0
+Anti-persecution,2039,303.0,289.0,326.1
+Anti-persecution,2040,301.5,286.9,325.1
+Anti-persecution,2041,300.0,282.9,323.0
+Anti-persecution,2042,296.0,280.0,320.1
+Anti-persecution,2043,294.5,277.0,320.1
+Anti-persecution,2044,294.0,274.0,318.0
+Anti-persecution,2045,293.0,269.0,316.0
+Anti-persecution,2046,290.5,268.0,314.1
+Anti-persecution,2047,287.0,263.9,313.0
+Anti-persecution,2048,286.0,263.0,310.2
+Anti-persecution,2049,283.0,260.0,308.0
+Anti-persecution,2050,281.0,258.0,309.0
+Anti-persecution,2051,280.0,254.0,306.0
+Anti-persecution,2052,277.0,252.0,306.0
+Anti-persecution,2053,275.0,250.0,304.0
+Anti-persecution,2054,273.0,247.9,304.0
+Anti-persecution,2055,270.0,243.9,303.0
+Anti-persecution,2056,267.5,242.0,300.0
+Anti-persecution,2057,266.5,239.0,298.0
+Anti-persecution,2058,264.5,237.9,298.0
+Anti-persecution,2059,264.0,236.0,295.0
+Anti-persecution,2060,261.0,234.9,291.1
+Anti-persecution,2061,260.0,230.9,291.1
+Anti-persecution,2062,257.0,229.0,289.1
+Anti-persecution,2063,255.0,226.9,286.0
+Anti-persecution,2064,253.5,223.9,284.0
+Anti-persecution,2065,252.0,220.9,283.0
+Anti-persecution,2066,249.0,219.0,281.1
+Integrated conservation,2026,392.0,392.0,392.0
+Integrated conservation,2027,376.0,370.9,381.0
+Integrated conservation,2028,361.0,352.9,366.0
+Integrated conservation,2029,346.0,337.0,352.0
+Integrated conservation,2030,331.0,321.9,340.0
+Integrated conservation,2031,338.0,328.0,350.0
+Integrated conservation,2032,345.0,334.0,358.1
+Integrated conservation,2033,351.5,338.0,366.1
+Integrated conservation,2034,356.0,339.0,372.1
+Integrated conservation,2035,359.0,341.9,378.0
+Integrated conservation,2036,363.5,347.0,386.0
+Integrated conservation,2037,368.0,348.0,389.1
+Integrated conservation,2038,373.0,352.9,397.0
+Integrated conservation,2039,377.0,355.0,402.0
+Integrated conservation,2040,382.5,360.9,408.0
+Integrated conservation,2041,387.0,363.9,415.1
+Integrated conservation,2042,391.5,367.0,421.0
+Integrated conservation,2043,398.0,371.0,427.0
+Integrated conservation,2044,404.0,376.0,432.0
+Integrated conservation,2045,410.0,379.9,439.0
+Integrated conservation,2046,414.0,381.9,443.0
+Integrated conservation,2047,419.5,383.0,450.0
+Integrated conservation,2048,426.0,389.9,457.1
+Integrated conservation,2049,429.5,392.0,462.0
+Integrated conservation,2050,434.5,393.9,470.1
+Integrated conservation,2051,439.5,398.9,473.2
+Integrated conservation,2052,446.0,403.9,478.0
+Integrated conservation,2053,452.0,409.0,488.1
+Integrated conservation,2054,457.0,410.0,493.1
+Integrated conservation,2055,459.0,417.0,499.0
+Integrated conservation,2056,466.5,421.0,509.0
+Integrated conservation,2057,472.0,425.8,513.1
+Integrated conservation,2058,479.0,429.0,521.0
+Integrated conservation,2059,482.5,437.0,526.1
+Integrated conservation,2060,487.0,441.0,531.1
+Integrated conservation,2061,494.5,444.9,537.1
+Integrated conservation,2062,503.0,452.9,549.1
+Integrated conservation,2063,509.0,456.8,556.1
+Integrated conservation,2064,513.5,458.0,563.2
+Integrated conservation,2065,520.5,464.9,569.1
+Integrated conservation,2066,526.0,469.0,574.0
+High-pressure future,2026,392.0,392.0,392.0
+High-pressure future,2027,359.0,352.0,365.0
+High-pressure future,2028,329.0,320.0,338.0
+High-pressure future,2029,301.0,291.0,311.0
+High-pressure future,2030,276.0,263.9,287.0
+High-pressure future,2031,260.0,247.9,272.0
+High-pressure future,2032,245.0,231.0,258.0
+High-pressure future,2033,230.0,216.0,244.0
+High-pressure future,2034,217.0,202.0,230.0
+High-pressure future,2035,204.0,191.0,218.0
+High-pressure future,2036,192.0,179.0,207.1
+High-pressure future,2037,181.0,166.0,195.1
+High-pressure future,2038,169.5,154.9,185.0
+High-pressure future,2039,158.5,144.9,174.1
+High-pressure future,2040,149.0,135.0,165.1
+High-pressure future,2041,140.0,126.9,157.0
+High-pressure future,2042,132.0,118.0,148.0
+High-pressure future,2043,125.0,110.9,139.0
+High-pressure future,2044,118.0,105.0,131.1
+High-pressure future,2045,111.0,98.9,124.0
+High-pressure future,2046,105.0,92.0,118.0
+High-pressure future,2047,98.0,85.0,113.0
+High-pressure future,2048,92.0,79.0,107.1
+High-pressure future,2049,85.0,73.0,102.1
+High-pressure future,2050,80.5,68.9,96.0
+High-pressure future,2051,76.5,64.0,90.0
+High-pressure future,2052,72.0,60.0,85.0
+High-pressure future,2053,67.0,56.0,81.0
+High-pressure future,2054,64.0,52.0,76.0
+High-pressure future,2055,60.0,49.0,72.0
+High-pressure future,2056,56.0,45.900000000000006,68.0
+High-pressure future,2057,52.0,43.0,65.0
+High-pressure future,2058,50.0,39.900000000000006,62.0
+High-pressure future,2059,47.0,36.900000000000006,58.0
+High-pressure future,2060,44.0,34.0,55.0
+High-pressure future,2061,41.0,32.0,51.0
+High-pressure future,2062,39.0,29.0,49.099999999999994
+High-pressure future,2063,37.0,28.0,47.0
+High-pressure future,2064,34.5,26.900000000000002,44.099999999999994
+High-pressure future,2065,32.0,24.0,42.0
+High-pressure future,2066,30.0,22.900000000000002,40.0

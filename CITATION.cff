@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this software and its accompanying manuscript when reusing the workflow, figures, or synthetic datasets."
+title: "Philippine Eagle Conservation Analytics"
+type: software
+authors:
+  - family-names: "Petalcorin"
+    given-names: "Mark Ihrwell R."
+    orcid: ""
+repository-code: "https://github.com/mpetalcorin/philippine-eagle-conservation-analytics"
+url: "https://github.com/mpetalcorin/philippine-eagle-conservation-analytics"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-16
+keywords:
+  - Philippine eagle
+  - Pithecophaga jefferyi
+  - conservation analytics
+  - population viability analysis
+  - conservation genomics
+  - habitat fragmentation
+  - synthetic data

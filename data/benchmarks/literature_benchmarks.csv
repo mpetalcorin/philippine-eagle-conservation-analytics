@@ -1,0 +1,15 @@
+domain,study,metric,value,unit,uncertainty,doi,PubMed,AGRIS,AGRICOLA_journal
+Population,"Sutton et al., 2023, Animal Conservation",Breeding pairs,392.0,pairs,318–447,10.1111/acv.12854,,,Yes
+Habitat,"Sutton et al., 2023, Animal Conservation",Area of habitat,28624.0,km²,modelled AOH,10.1111/acv.12854,,,Yes
+Habitat,"Sutton et al., 2023, Animal Conservation",AOH protected,32.0,%,reported coverage,10.1111/acv.12854,,,Yes
+Movement,"Sutton et al., 2024, Ibis",Median 95% home range,68.0,km²,"CI 62–74, range 39–161",10.1111/ibi.13233,,,Yes
+Movement,"Sutton et al., 2024, Ibis",Median 50% core range,13.0,km²,"CI 11–14, range 9–33",10.1111/ibi.13233,,,Yes
+Movement,"Sutton et al., 2024, Ibis",Space-time outside core,79.0,%,median,10.1111/ibi.13233,,,Yes
+Spacing,"Bueser et al., 2003, Ibis",Nearest-neighbour distance,12.74,km,mean,10.1046/j.1474-919X.2003.00131.x,,,Yes
+Breeding,"Ibañez et al., 2003, Wilson Bulletin",Incubation duration,58.0,days,observed nest,10.1676/01-054,,,Yes
+Breeding,"Ibañez et al., 2003, Wilson Bulletin",Female incubation share,74.0,%,observed time budget,10.1676/01-054,,,Yes
+Forest,"Daipan, 2021, Journal of Threatened Taxa",KBA forest loss,14213.0,ha/year,2001–2019 mean,10.11609/jott.6904.13.13.20019-20032,,,
+Forest,"Perez et al., 2020, Forests",Sierra Madre net forest loss,17000.0,ha,"1,764,000 to 1,747,000 ha",10.3390/f11101071,,Yes,Yes
+Genomics,"Bacus et al., 2025, Ecology and Evolution",Nucleotide diversity,0.00054,π,"±0.00030, n=32, 17 haplotypes",10.1002/ece3.72572,PMID 41356510,,Yes
+Genomics,"Perdon et al., 2026, BMC Genomics",Genome-wide heterozygosity,0.000309,proportion,"minimum 0.000207, n=35",10.1186/s12864-026-12859-9,PMID 42010461,,Yes
+Identification,"Ong et al., 2011, Molecular Ecology Resources",COI barcode reference,1.0,study,Philippine accipitrids,10.1111/j.1755-0998.2010.02928.x,PMID 21429130,,

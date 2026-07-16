@@ -1,0 +1,8 @@
+metric,published_target,synthetic_value,unit,relative_error_pct
+Breeding pairs,392.0,392.0,pairs,0.0
+Area of habitat,28624.0,28624.0,km²,0.0
+Protected coverage,32.0,31.887755102040817,%,0.35076530612244694
+Median 95% home range,68.0,68.0,km²,0.0
+Median 50% core range,13.0,13.0,km²,0.0
+Median space-time outside core,79.0,79.0,%,0.0
+Mean nearest-neighbour distance,12.74,12.739999999999997,km,2.788629261224883e-14

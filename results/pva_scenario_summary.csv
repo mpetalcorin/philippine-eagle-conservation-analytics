@@ -1,0 +1,6 @@
+scenario,median_adult_females_y40,lower95,upper95,prob_below50_pct,prob_zero_pct
+Current pressure,106.0,83.0,132.775,0.0,0.0
+Habitat protection,191.0,155.225,239.775,0.0,0.0
+Anti-persecution,249.0,205.225,302.32500000000005,0.0,0.0
+Integrated conservation,526.0,437.15000000000003,603.55,0.0,0.0
+High-pressure future,30.0,17.450000000000003,45.55000000000001,99.6,0.0
