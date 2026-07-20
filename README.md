@@ -129,7 +129,7 @@ Citation metadata are provided in [`CITATION.cff`](CITATION.cff). GitHub can ren
 
 ## Author
 
-**Mark Ihrwell R. Petalcorin, PhD**  
+**Mark I. R. Petalcorin**  
 Molecular biology, biochemistry, conservation analytics, computational biology, and machine learning.
 
 ## License
